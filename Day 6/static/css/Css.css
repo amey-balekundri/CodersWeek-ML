@@ -1,0 +1,34 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+
+html { width: 100%; height:100%; overflow:hidden; }
+
+
+
+body { 
+	width: 100%;
+	height:100%;
+	font-family: 'Open Sans', sans-serif;
+	
+
+}
+.login { 
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	margin: -150px 0 0 -150px;
+	width:400px;
+	height:400px;
+}
+
+
+input { 
+	width: 100%; 
+	margin-bottom: 10px; 
+	border: none;
+	outline: none;
+	padding: 10px;
+	font-size: 13px;
+	
+}
+
